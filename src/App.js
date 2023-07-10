@@ -82,6 +82,7 @@ export default function App() {
         <option value="CAD">CAD</option>
 
         <option value="BRL">BRL</option>
+        <option value="ARS">ARS</option>
       </select>
       <label className="form-label">Moeda Referência</label>
       <select className="form-select" onChange={handleChangeRefCurr}>
@@ -92,6 +93,7 @@ export default function App() {
         <option value="CAD">CAD</option>
 
         <option value="BRL">BRL</option>
+        <option value="ARS">ARS</option>
       </select>
 
       <p>
